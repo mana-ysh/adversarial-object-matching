@@ -14,7 +14,7 @@ class Generator(chainer.Chain):
 
     def __call__(self, src_emb):
         """
-        simple profection
+        simple projection
         """
         src_emb = chainer.Variable(src_emb)
         return self.W(src_emb)
