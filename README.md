@@ -1,5 +1,5 @@
 # adversarial-object-matching 
-An implementation of "Word translation without parallel data [Conneau+. 2017]" with synthetic data.
+Chainer implementation of "Word translation without parallel data [Conneau+. 2017]" with synthetic data.
 
 
 ## Reference
